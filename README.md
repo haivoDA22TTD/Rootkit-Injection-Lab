@@ -24,7 +24,7 @@ Dự án này được xây dựng nhằm mục đích **nghiên cứu học thu
 
 1. **Môi trường máy tấn công:** Kali Linux (Sử dụng Metasploit Framework `multi/handler` để hứng kết nối).
 2. **Môi trường nạn nhân:** Máy ảo Windows 10 Pro (Đã bật chế độ `testsigning on` để nạp thử nghiệm driver).
-3. **Trình biên dịch:** Dev-C++ (TDM-GCC 64-bit trên Windows) hoặc MinGW-w64 (Biên dịch chéo trên Kali Linux).
+3. **Trình biên dịch:** Dev-C++ (TDM-GCC 64-bit trên Windows) hoặc MinGW-w64 (Biên dịch trên Kali Linux).
 **Dự án đang trong giai đoạn thử nghiệm**
 ## 📜 Giấy Phép (License)
 
