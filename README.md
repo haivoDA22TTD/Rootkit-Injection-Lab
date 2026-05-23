@@ -1,4 +1,4 @@
-# Windows User-Mode Injection & Kernel-Mode Rootkit Lab
+# Windows Kernel-Mode Rootkit Lab
 
 Dự án này được xây dựng nhằm mục đích **nghiên cứu học thuật, giáo dục và thử nghiệm an toàn thông tin** (Cybersecurity Research). Dự án tập trung vào việc mô phỏng lại các kỹ thuật tấn công găm mã (DLL Injection) ở mức User-mode và cơ chế ẩn mình cơ bản của mã độc nhằm phục vụ cho việc phát triển các giải pháp phòng thủ, nhận diện phần mềm độc hại.
 
