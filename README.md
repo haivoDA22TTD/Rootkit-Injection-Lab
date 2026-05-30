@@ -20,6 +20,7 @@ Dự án này được xây dựng nhằm mục đích **nghiên cứu học thu
 * `MyPayload.c`: Mã nguồn file DLL (chứa mảng Shellcode mẫu kết nối ngầm Reverse Shell).
 * `mydriver.c`: Mã nguồn Driver thử nghiệm chạy ở tầng nhân (Kernel-mode Ring 0).
 * `RING 3`: Tầng ứng dụng cần người dùng thao tác.
+* `RING 3`: Hoạt động ở tầng Kernel không cần người dùng thao tác.
 ## 🚀 Kịch Bản Thử Nghiệm (Lab Setup)
 
 1. **Môi trường máy tấn công:** Kali Linux (Sử dụng Metasploit Framework `multi/handler` để hứng kết nối).
